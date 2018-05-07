@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bdougie/hugo-restaurant-template
+  repo: IAlexandr/hugo-restaurant-template-1
   branch: master
 
 media_folder: "src/img/gallery" # Folder where user uploaded files should go
